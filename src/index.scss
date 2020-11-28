@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+#banner {
+  // margin-left: 100px;
+  margin-top: 80px;
+  h1 {
+    font-size: 46px;
+    line-height: 70px;
+  }
+  p {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  button {
+    border-radius: 20px 20px 10px 10px;
+  }
+}
+#special {
+  p {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  h4 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+}
